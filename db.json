@@ -1,0 +1,8 @@
+
+{
+  "users": [
+    { "name": "ali", "list": ["lait","fromage","oeufs"] },
+    { "name": "marie", "list": ["lait","fromage","oeufs"] },
+    { "name": "john", "list": ["lait","fromage","oeufs"] }
+  ]
+}
